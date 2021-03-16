@@ -11,6 +11,7 @@ setup(
     py_modules=['tap_wordpress_support_forums'],
     install_requires=[
         'singer-python~=5.12.0',
+        'feedparser~=6.0.2',
     ],
     entry_points="""
     [console_scripts]
