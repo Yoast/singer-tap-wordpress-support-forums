@@ -1,0 +1,31 @@
+{
+	"selected": true,
+	"type": [
+		"null",
+		"object"
+	],
+	"additionalProperties": false,
+	"properties": {
+		"id": {
+			"type": "string"
+		},
+		"plugin": {
+			"type": "string"
+		},
+		"title": {
+			"type": "string"
+		},
+		"published": {
+			"type": "string"
+		},
+		"authors": {
+			"type": [
+				"null",
+				"string"
+			]
+		},
+		"description": {
+			"type": "string"
+		}
+	}
+}
